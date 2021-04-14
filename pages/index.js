@@ -5,7 +5,7 @@ export default function Home() {
   return (
       <div className={styles.container}>
           <Head>
-              <title>Sandox for HubSpot Tools</title>
+              <title>Sandbox for HubSpot Tools</title>
               <link rel='icon' href='/favicon.ico' />
           </Head>
 
